@@ -1,0 +1,6 @@
+{
+    "folder_path": "C:\\Users\\Nikita\\Downloads\\mp4samples",
+    "large_file_marker": 300,
+    "filename_template": "{date}_{size_marker}_{number}_{length_seconds}"
+  }
+  
